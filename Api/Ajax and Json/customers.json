@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Mellow Meek",
+        "company":"Mell empire",
+        "phone":"0792333922"
+    }
+    {
+        "id":2,
+        "name":"Edna Katniss",
+        "company":"a-z computer",
+        "phone":"079233232"
+    }
+    {
+        "id":3,
+        "name":"Mimo hedim",
+        "company":"Mpelizi production",
+        "phone":"0784343404"
+    }
+]
